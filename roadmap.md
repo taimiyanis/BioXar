@@ -1,0 +1,16 @@
+# BioXar roadmap
+- [x] Complete all remaining phases automatically, as requested
+- [x] Plan approved
+- [x] Wireframes v2 approved
+- [x] Phase 1 Foundation
+- [x] Phase 2 Digital twin (+ Pieces tab)
+- [x] Phase 3 Block lab
+- [x] Phase 4 In your room: camera placement + AI room proposal
+- [x] Phase 5 Home scroll story, Projects, Rent & buy, About, request dialog
+- [x] Phase 6 Polish + acceptance test
+- [ ] Real-phone camera quality and touch feel: requires physical device testing via Digital twin > Allow camera
+- [x] Make 3D blocks look like the real product (material, edges, openings)
+- [x] Block lab: more detailed text, block look and take-apart system
+- [x] How it's made as an illustrated timeline, no buttons
+- [x] Blocks page photo: show blocks in use with people
+- [x] Twin: fix Scenarios/Pieces/Play tab row
